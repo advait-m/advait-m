@@ -24,7 +24,7 @@ cat experience.txt
 ```
 🛠️ **Warp** - *Software Engineer* (Rust, Go)  
 📍 NYC, SF | Aug 2023 - Present   
-➜ Building AI functionality for Warp's Agents.
+➜ Building AI functionality for Warp's Agents.  
 ➜ Previously, worked on core terminal features
 
 🛠️ **Ramp** - *Software Engineering Intern* (Python, Elixir)  
