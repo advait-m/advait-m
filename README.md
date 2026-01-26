@@ -79,6 +79,7 @@ echo "Now hacking on..."
 🚀 **AI-powered Dev Workflows @ Warp**  
 
 Past work:
+- [Images as Context in Warp](https://www.youtube.com/watch?v=_Pc7bL0zAoM)
 - [Why It Took Us 11 Months to Move a Single Line of Text](https://www.warp.dev/blog/why-it-took-us-11-months-to-move-a-single-line-of-text)
   - [Video Interview](https://www.youtube.com/watch?v=-eNyi7Zaqxg)
 - [Making MS Paint Work in the Terminal](https://www.warp.dev/blog/making-ms-paint-work-in-the-terminal)
