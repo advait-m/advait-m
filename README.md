@@ -92,4 +92,5 @@ Past work:
 💻 **GitHub:** [github.com/Advait-M](https://github.com/Advait-M)  
 📝 **LinkedIn:** [linkedin.com/in/advait-m](https://www.linkedin.com/in/advait-m/)  
 📖 **Devpost:** [devpost.com/AdvaitM](https://devpost.com/AdvaitM)  
+🐦 **Twitter:** [https://x.com/advait_m](https://x.com/advait_m)
 
