@@ -71,7 +71,7 @@ ls
 ```sh
 cat education.txt
 ```
-🎓 **2023 - present: Georgia Institute of Technology** - Master’s in Computer Science (MCS)  
+🎓 **2023 - 2025: Georgia Institute of Technology** - Master’s in Computer Science (MCS)  
 🎓 **2018 - 2023: University of Waterloo** - Honours Computer Science (BCS)
 
 ```sh
